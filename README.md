@@ -4,7 +4,7 @@
 Projekt oparty na analizie danych dotyczących wytrzymałości betonu na ściskanie. Celem projektu jest zastosowanie algorytmu Machine Learning do przewidywania wytrzymałości betonu na podstawie różnych składników. Poniżej przedstawiono najistotniejsze informacje dotyczące przeprowadzenia algorytmu, kod całościowy znajduje się w pliku ipynb.
 
 #Źródło danych
-[Dataset on Kaggle]https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking,
+[Dataset on Kaggle] https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking,
 Autorzy oraz współtwórcy: Pratham Tripathi
 
 # Załadowanie i Wstępna Analiza Danych:
