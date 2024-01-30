@@ -1,7 +1,7 @@
 # Machine learning - badanie wytrzymalosci betonu, wpływ poszczególnych komponentów na wytrzymałość betonu na ściskanie
 
 # Wstęp
-Projekt oparty na analizie danych dotyczących wytrzymałości betonu na ściskanie. Celem projektu jest zastosowanie algorytmu Machine Learning do przewidywania wytrzymałości betonu na podstawie różnych składników. Poniżej przedstawiono najistotniejsze informacje dotyczące przeprowadzenia algorytmu, kod całościowy znajduje się w pliku ipynb.
+Projekt oparty na analizie danych dotyczących wytrzymałości betonu na ściskanie. Celem projektu jest zastosowanie algorytmu Machine Learning do przewidywania wytrzymałości betonu na podstawie różnych składników. Poniżej przedstawiono najistotniejsze informacje dotyczące przeprowadzenia algorytmu, kod całościowy znajduje się w pliku ipynb. Środowisko, które zostało wykorzystane do opracowania algorytmu to Jupyter Notebook.
 
 #Źródło danych
 [Dataset on Kaggle] https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking,
